@@ -33,7 +33,7 @@ The goal was to answer: Who are top performers? Which regions/cities drive reven
 - **Shipping:** New York shipped most revenue $67.18K, Las Vegas least $15.37K
 
 **3. Product Insights:**
-- **Product Category by Revenue:** Beverages topped by quantity purchased (100%), followed by Dried Fruits & Baked Goods
+- **Product Category by Revenue:** Beverages topped by quantity purchased, followed by Dried Fruits & Baked Goods
 - **Top 6 Products by Quantity:**
     - Chocolate - 1,399
     - Clam Chowder - 1,744
